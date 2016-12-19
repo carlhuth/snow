@@ -10,7 +10,6 @@ Instalation
 -------------
 Instalation with Bower
 
-`bower install https://github.com/damienmarchandfr/snow.git --save
+`bower install https://github.com/damienmarchandfr/snow.git --save`
 
-`
 Then look at example/index.html
