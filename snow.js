@@ -1,5 +1,3 @@
-var app = angular.module('snowApp', []);
-
-app.component('snow', {
+var app = angular.module('snow', []).component('snow', {
   templateUrl: 'template.html'
 });
