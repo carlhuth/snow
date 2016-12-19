@@ -1,0 +1,13 @@
+{
+  "name": "snow",
+  "authors": [
+    "damien marchand <damien-marchand@outlook.fr>"
+  ],
+  "description": "Angular 1 directive to display snowflakes.",
+  "main": "",
+  "license": "MIT",
+  "homepage": "",
+  "dependencies": {
+    "angular": "^1.6.0"
+  }
+}
